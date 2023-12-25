@@ -6,8 +6,8 @@ function App() {
   const classes = useStyles();
   return (
     <div className={classes.root}>
-      <h1> My portfolio</h1>
       <Navbar></Navbar>
+      <h1> My portfolio</h1>
     </div>
   );
 }
