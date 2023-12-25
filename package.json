@@ -1,6 +1,6 @@
 {
-  "name": "react-porfolio-website",
   "homepage": "https://lilimafra.github.io/Portfolio/",
+  "name": "react-porfolio-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
